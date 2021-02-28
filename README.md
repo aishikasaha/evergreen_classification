@@ -24,4 +24,8 @@ or “non-evergreen”.</p>
     <li>DistilBERT Tokenizer and Model is imported and initialized.</li>
     <li>The text data is transformed into tokenised ids and attention masks after padding.</li>
     <li>A neural network using DistilBERT embedding is defined. Here, the structure is being inspired by the <a href="https://github.com/TinySuitStarfishAbhi/StumbleUponClassifier/blob/master/Approach.pdf">article</a>. I have also taken help from this <a href="https://github.com/aishikasaha/evergreen_classification/blob/main/RoySaraiya_StumbleUponClassification.pdf">article</a> too.
+     <li> The parameter loss, metric and optimiser, the model was fit and trained using training data.</li>
+    <li>The predictions were made and the data was analysed, thereby generating the F1 score.</li>
+    <li>The submission csv was created.</li>
+    
   </ol>
