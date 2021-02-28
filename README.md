@@ -16,6 +16,6 @@ or “non-evergreen”.</p>
 <h2>APPROACH</h2>
 <p2>
   <ol>
-  <l1> Firstly, I have imported all the necessary libraries, packages and frameworks like Numpy,Pandas, Sklearn, Seaborn, Matplotlib, NLTK, Tensorflow, Keras and Transformers</li>
+  <li> Firstly, I have imported all the necessary libraries, packages and frameworks like Numpy,Pandas, Sklearn, Seaborn, Matplotlib, NLTK, Tensorflow, Keras and Transformers</li>
     <li> 
   </ol>
